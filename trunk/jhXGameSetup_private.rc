@@ -1,0 +1,34 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 0,0,0,1
+PRODUCTVERSION 0,0,0,1
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "080904E4"
+		 {
+			 VALUE "CompanyName", "http://GameSetup.jhX.de"
+			 VALUE "FileVersion", "0.0.1"
+			 VALUE "FileDescription", "jhXGameSetup-win32"
+			 VALUE "InternalName", "jhXGameSetup"
+			 VALUE "LegalCopyright", "(c) Jahn Fuchs"
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", "jhXGameSetup.exe"
+			 VALUE "ProductName", "jhXGameSetup"
+			 VALUE "ProductVersion", "0.0.1"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0809, 1252
+	 }
+}
