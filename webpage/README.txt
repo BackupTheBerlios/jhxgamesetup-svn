@@ -11,5 +11,6 @@
  In this directory you will find a PsPad (www.pspad.com)
  project file for the webpage project and a png file with artwork
  for the homepage.
+ ...
  
  --------------------------------------------------------------------
